@@ -76,11 +76,31 @@ Choose your variables and be consistent with the choice:
 
 ## The Lead
 
-TODO:
+The most important sentance is the first.
+
+The lead must:
+
+- Say why the piece was written
+- Why someone ought to read it
+- Tell them what's in store for them
+
+The lead also sets the tone, the hook. It should make it hard **not** to continue to the next paragraph.
+
+A great lead will *safely hook* the reader. It is the most difficult and most important job the writer has.
+
+Building..
+
+The last sentence of a paragraph is like the snapper in a standup routine.
+
+A solid pattern is to use a longer explanatory sentance and end with a short snappy sentance that restores tone, closes the thought, and leads to the next paragraph.
 
 ## The Ending
 
-TODO:
+The last sentance is nearly as important as the first.
+
+It is dangerous to not linger. The reader will be frustrated if they sense a satisfying conclusion is near, but turns out to be a fake and the article lingers past its welcome.
+
+A good rule of thumb: If you *get the feeling* you've said what you wanted to say, look for the nearest exit.
 
 ## Business Writing
 
@@ -97,3 +117,4 @@ American business culture has embraced a lie: simple words expose a simple mind.
 Jargon serves the organization, it's politics, policies, procedures. No customer is asking for it. It should never leak out to the customer, though it often does in copy, statements and customer service scripts.
 
 Where is the value in using internal jargin only to have to convert it to sensible words for the customer? Why not use sensible words throughout. Employees would feel connected to a relatable vision. They would follow processes built for humans. They could spend their time solving rather than politicking.
+`
